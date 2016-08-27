@@ -1,5 +1,7 @@
 # dokku-forego
 
+> Deprecated as of Dokku 0.3.14 (process management) and 0.7.0 (restart policies)
+
 dokku-forego is a plugin for [dokku][dokku] that injects
 [forego][forego] to manage Procfile processes.
 
